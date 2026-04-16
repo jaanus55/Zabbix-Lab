@@ -1,0 +1,10 @@
+.env
+
+mysql-data/
+persistent-data/
+pgdata/
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
+docker-compose.override.yml
